@@ -5,7 +5,7 @@ It is necessary to train the model to predict whether the client will leave the 
 
 # Description of data
 
-*Features*
+**Features**
 
 * RowNumber — Row index in data
 * CustomerId — Unique client id
@@ -21,7 +21,7 @@ It is necessary to train the model to predict whether the client will leave the 
 * IsActiveMember — Client activity
 * EstimatedSalary
 
-*Target*
+**Target**
 
 * Exited — The fact thet the client left
 
