@@ -25,6 +25,13 @@ It is necessary to train the model to predict whether the client will leave the 
 
 * Exited — The fact thet the client left
 
+# used library
+
+1. pandas 
+2. sklearn
+3. matplotlib
+4. warnings
+
 # What was done
 
 - The data was analyzed, omissions and duplicates were found.
