@@ -25,7 +25,7 @@ It is necessary to train the model to predict whether the client will leave the 
 
 * Exited — The fact thet the client left
 
-# used library
+# Used library
 
 1. pandas 
 2. sklearn
